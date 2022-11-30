@@ -1,0 +1,23 @@
+
+.container-md
+{
+    background: rgb(239, 233, 225);
+}
+
+h1
+{
+    color: goldenrod;
+    text-shadow: 2px 2px black;
+}
+
+.row
+{
+    border: 1px solid black;
+    background: rgb(37, 37, 200);
+    color: rgb(206, 152, 16);
+}
+
+.col
+{
+    border: 2px solid black;
+}
